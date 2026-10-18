@@ -1,0 +1,68 @@
+[
+  {
+    "websiteReferenceUrl": "https://www.threewisemonkeys.lol/assets/hero-trio-transparent.png",
+    "packagePath": "public/assets/hero-trio-transparent.png",
+    "uploadedSource": "Assets(2).rar / Assets/hero-trio-transparent.webp",
+    "purpose": "Hero: three monkeys; transparent",
+    "dimensions": [
+      1600,
+      900
+    ],
+    "note": "Converted from user-provided WebP; not claimed to be the source site original binary."
+  },
+  {
+    "websiteReferenceUrl": "https://www.threewisemonkeys.lol/assets/see-no-fud.jpg",
+    "packagePath": "public/assets/see-no-fud.jpg",
+    "uploadedSource": "Assets(2).rar / Assets/see-no-fud.webp",
+    "purpose": "Character #1, recap, picker, favicon source",
+    "dimensions": [
+      1280,
+      1280
+    ],
+    "note": "Converted from user-provided WebP; not claimed to be the source site original binary."
+  },
+  {
+    "websiteReferenceUrl": "https://www.threewisemonkeys.lol/assets/hear-no-fud.png",
+    "packagePath": "public/assets/hear-no-fud.png",
+    "uploadedSource": "Assets(2).rar / Assets/hear-no-fud.webp",
+    "purpose": "Character #2, recap, picker",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "note": "Converted from user-provided WebP; not claimed to be the source site original binary."
+  },
+  {
+    "websiteReferenceUrl": "https://www.threewisemonkeys.lol/assets/speak-no-alpha.png",
+    "packagePath": "public/assets/speak-no-alpha.png",
+    "uploadedSource": "Assets(2).rar / Assets/speak-no-alpha.webp",
+    "purpose": "Character #3, recap, picker",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "note": "Converted from user-provided WebP; not claimed to be the source site original binary."
+  },
+  {
+    "websiteReferenceUrl": "https://www.threewisemonkeys.lol/assets/sticker-sheet-transparent.png",
+    "packagePath": "public/assets/sticker-sheet-transparent.png",
+    "uploadedSource": "Assets(2).rar / Assets/sticker-sheet-transparent.webp",
+    "purpose": "Monkey Business sticker section",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "note": "Converted from user-provided WebP; not claimed to be the source site original binary."
+  },
+  {
+    "websiteReferenceUrl": "https://www.threewisemonkeys.lol/assets/peek-edge.png",
+    "packagePath": "public/assets/peek-edge.png",
+    "uploadedSource": "Assets(2).rar / Assets/peek-edge.webp",
+    "purpose": "Footer peeking monkey",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "note": "Converted from user-provided WebP; not claimed to be the source site original binary."
+  }
+]

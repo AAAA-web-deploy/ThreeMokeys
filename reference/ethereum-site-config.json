@@ -1,0 +1,108 @@
+{
+  "_instructions": "Replace null placeholders with your Ethereum project values after deployment. Never reuse the BSC contract from the original site.",
+  "siteName": "Three Wise Monkeys",
+  "tokenName": "Three Wise Monkeys",
+  "ticker": "MONKEYS",
+  "network": "Ethereum Mainnet",
+  "networkShort": "ETH",
+  "chainId": 1,
+  "tokenSupply": "1000000000",
+  "contractAddress": null,
+  "siteUrl": null,
+  "logoPath": "/branding/logo-REPLACE-ME.png",
+  "social": {
+    "x": null,
+    "telegram": null
+  },
+  "links": {
+    "uniswap": null,
+    "dexscreener": null,
+    "etherscan": null
+  },
+  "metadata": {
+    "title": "Monkeys — 3 Monkeys on ETH 4 FUN.",
+    "description": "See no FUD. Hear no FUD. Speak no alpha.",
+    "ogImage": "/branding/og-ethereum-preview.jpg",
+    "themeColor": "#F3BA2F"
+  },
+  "images": {
+    "hero": "/assets/hero-trio-transparent.png",
+    "monkeySee": "/assets/see-no-fud.jpg",
+    "monkeyHear": "/assets/hear-no-fud.png",
+    "monkeySpeak": "/assets/speak-no-alpha.png",
+    "stickers": "/assets/sticker-sheet-transparent.png",
+    "footerPeek": "/assets/peek-edge.png"
+  },
+  "content": {
+    "heroEyebrow": "🙈 🙉 🙊 ENOUGH SAID.",
+    "heroHeadline": [
+      "3 MONKEYS",
+      "ON ETH",
+      "4 FUN."
+    ],
+    "heroSlogan": "SEE NO FUD. HEAR NO FUD. SPEAK NO ALPHA.",
+    "heroTagline": "just monkey business.",
+    "monkeys": [
+      {
+        "id": "see",
+        "title": [
+          "SEE NO",
+          "FUD."
+        ],
+        "eyebrow": "🙈 MONKEY #1",
+        "line1": "ape first. look later.",
+        "line2": "DIDN’T SEE THE DIP.",
+        "reaction": "NOPE.",
+        "buttonCaption": "YOU SAW NOTHING.",
+        "image": "/assets/see-no-fud.jpg"
+      },
+      {
+        "id": "hear",
+        "title": [
+          "HEAR NO",
+          "FUD."
+        ],
+        "eyebrow": "🙉 MONKEY #2",
+        "line1": "too much noise.",
+        "line2": "CAN’T HEAR THE PAPER HANDS.",
+        "reaction": "WHAT?",
+        "buttonCaption": "CAN’T HEAR YOU.",
+        "image": "/assets/hear-no-fud.png"
+      },
+      {
+        "id": "speak",
+        "title": [
+          "SPEAK NO",
+          "ALPHA."
+        ],
+        "eyebrow": "🙊 MONKEY #3",
+        "line1": "shhh.",
+        "line2": "I KNOW NOTHING.",
+        "reaction": "SHHHHH.",
+        "buttonCaption": "CAN’T SAY.",
+        "image": "/assets/speak-no-alpha.png"
+      }
+    ],
+    "reactionsTitle": [
+      "3 MONKEYS.",
+      "3 REACTIONS."
+    ],
+    "stickersTitle": [
+      "MONKEY",
+      "BUSINESS."
+    ],
+    "tokenTitle": [
+      "MONKEYS",
+      "LIVE ON ETH."
+    ],
+    "tokenTagline": "same monkeys. now on-chain.",
+    "pickerTitle": [
+      "PICK YOUR",
+      "MONKEY."
+    ],
+    "ctaTitle": "APE IN.",
+    "ctaTagline": "no lore. no lectures. just monkeys.",
+    "footerHeadline": "3 MONKEYS ON ETH 4 FUN.",
+    "footerTagline": "🙈 🙉 🙊 LESS EXPLAINING. MORE MONKEYING."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "uploadedArchive": "Assets(2).rar",
+  "filesPresent": 9,
+  "uniqueImageFiles": 6,
+  "duplicateCopies": [
+    "hear-no-fud (1).webp",
+    "see-no-fud (1).webp",
+    "speak-no-alpha (1).webp"
+  ],
+  "videosPresent": 0,
+  "identifiedWebsiteCoreImages": 6,
+  "notDownloadedFromWebsite": "Original website source CSS, JavaScript, and source-binary PNG/JPG files; current package uses converted user-supplied assets"
+}
